@@ -124,6 +124,7 @@
         font-weight: 400;
         margin: 10px;
         font-family: sans-serif;
+        width: auto
     }
 
     .shadow {
