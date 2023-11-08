@@ -3,7 +3,7 @@
         height: 100%;
     }
     body{
-      overflow: scroll;
+      overflow:hidden;
       margin: 0;
       padding: 0;
   }
